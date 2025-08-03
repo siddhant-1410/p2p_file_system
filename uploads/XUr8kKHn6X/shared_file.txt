@@ -1,0 +1,7 @@
+This is the shared file for our peer-to-peer demonstration.
+
+The content of this file is being shared directly from one computer
+to another without a central server. This is the core principle of a 
+peer-to-peer network.
+corruption
+Happy coding!
